@@ -5,4 +5,8 @@ package com.example.parent.entity;
  * @create 2023-11-23 17:37
  */
 public class GitTest {
+
+    public static void main(String[] args) {
+        System.out.println("hello first");
+    }
 }
