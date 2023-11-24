@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("hello thrid");
         System.out.println("on hot-fix");
         System.out.println("on master");
+        System.out.println("on hot-fix2");
 
     }
 }
