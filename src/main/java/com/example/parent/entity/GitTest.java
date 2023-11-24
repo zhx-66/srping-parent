@@ -9,5 +9,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello first");
         System.out.println("hello thrid");
+        System.out.println("on hot-fix");
+
     }
 }
