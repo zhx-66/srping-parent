@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("on master");
         System.out.println("on hot-fix2");
         System.out.println("on master2222");
+        System.out.println("on master3");
 
     }
 }
